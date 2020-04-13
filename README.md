@@ -1,4 +1,4 @@
-# bench mark of node vs PhpReact
+# bench mark of node vs PhpReact (with PHP 7)
 This is a comparison between phpreact and node
 
 This test includes node with clusters, node with out clusters(slower) and php with phpLibraries
